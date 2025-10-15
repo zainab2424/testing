@@ -54,4 +54,5 @@ To run this sketch, you must have the following installed and configured:
 
 ## 🖼️ Example Output
 
-![Virtual Aquarium Simulator Screenshot]
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/5e8a5587-07cf-4420-88bc-2e79dfffc6fd" />
+
