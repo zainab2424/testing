@@ -44,6 +44,6 @@ The simulation features autonomous fish with various behaviors, including wander
 ---
 
 ## Example Output
-Below are visual examples of the simulation:
+Below are visual examples of the simulation in day and nigh mode:
 <img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/5e8a5587-07cf-4420-88bc-2e79dfffc6fd" />
 
